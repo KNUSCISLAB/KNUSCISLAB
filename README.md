@@ -23,24 +23,26 @@
 
 ## Ph.D. Students
 - Junhwa Hwang
-<br>
+
 - Bowoo Kim
-<br>
+
 - Junghoon Choi
 
 ## Master Students
 - Woosung Jeon
-<br>
+
 - Muhammad Ihza Febriyan Pagri
-<br>
+
 - Donghyeon Kim
-<br>
+
 - Yahaya Abdullahi
   
 - Eunwan Kim
+  
 - Gyungwook Park
 
 ## Undergraduate Students
 - Dongho Lee
+  
 - Jiyoung Park
 </div>
