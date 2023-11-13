@@ -5,7 +5,7 @@
 </div>
 <div align=center>
 	
-# professor
+# Professor
 <div align=left>
 	
 ## Dongjun Suh, Ph.D
