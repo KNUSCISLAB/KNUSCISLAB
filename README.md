@@ -5,7 +5,7 @@
 </div>
 <div align=center>
 	<h1> Professor </h1>
-  	<p style="font-size:36px">
+  	<p style="font-size:36px";>
 		Dongjun Suh, Ph.D
 	</p>
 	<div align=left>
