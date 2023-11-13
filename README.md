@@ -24,7 +24,7 @@
 ## Ph.D. Students
 Junhwa Hwang\
 Bowoo Kim\
-Junghoon Choi.
+Junghoon Choi
 
 ## Master Students
 Woosung Jeon\
