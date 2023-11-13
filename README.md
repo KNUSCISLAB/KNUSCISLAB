@@ -5,8 +5,11 @@
 </div>
 <div align=center>
 	<h1> Professor </h1>
-  	<p>Associate Professor</p>
+  	<p style="font-size:24px">
+		Dongjun Suh, Ph.D
+	</p>
 	<div align=left>
+ 		<p>Associate Professor</p>
   		<p>Department of Convergence & Fusion Systems Engineering,</p>
   		<p>Department of Smart Plant Engineering,</p>
   		<p>Department of Energy Convergence & Climate Change,</p>
