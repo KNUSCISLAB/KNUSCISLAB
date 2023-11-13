@@ -56,7 +56,7 @@
   
 - Eunwan Kim
   
-- Gyungwook Park
+- Gyeonguk Park
 
 ## Undergraduate Students
 - Dongho Lee
