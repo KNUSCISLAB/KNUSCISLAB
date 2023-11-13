@@ -17,7 +17,7 @@
   			<p>E-mail: dongjunsuh@knu.ac.kr</p> 
 		</ul>
  		
-	</div>
+</div>
 <h1> Members </h1>
 	<div align=left>
 	<h2>Ph.D. Student </h2>
