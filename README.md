@@ -22,9 +22,9 @@
 	# Members
 
 ## Ph.D. Students
-Junhwa Hwang\
-Bowoo Kim\
-Junghoon Choi
+- Junhwa Hwang\
+- Bowoo Kim\
+- Junghoon Choi
 
 ## Master Students
 Woosung Jeon\
