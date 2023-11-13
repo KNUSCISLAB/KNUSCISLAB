@@ -5,8 +5,8 @@
 </div>
 <div align=center>
 	<h1> Professor </h1>
-	<a href="https://sites.google.com/site/knuscislab/professor">
-		<img src="https://lh5.googleusercontent.com/RwWtJFQB9jFKocQrNd77VBUb2aUWkNPVcBOjM3hBHrrH39MVF-6HhiMx6_cPZ6BYnBbDsDKb7jJOQXfEDD3aqVEFvCc1pP76nJlHJDkVI5UKYB-A=w1280" alt="try again"
+		<a href="https://sites.google.com/site/knuscislab/professor">
+			<img src="https://lh5.googleusercontent.com/RwWtJFQB9jFKocQrNd77VBUb2aUWkNPVcBOjM3hBHrrH39MVF-6HhiMx6_cPZ6BYnBbDsDKb7jJOQXfEDD3aqVEFvCc1pP76nJlHJDkVI5UKYB-A=w1280" alt="try again"
 	<h2> Dongjun Suh, Ph.D. </h2>
   <p>Associate Professor</p>
   <p>Department of Convergence & Fusion Systems Engineering,</p>
