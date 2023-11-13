@@ -25,6 +25,17 @@
 </div>
 <div align=left>
 
+# Research
+- Energy AI
+
+- Building Energy/Control
+
+- Fault Diagnosis & Anomaly Detection
+
+- AI and Machine Learning for Risk Management
+
+- Industrial AI : Machine Intelligence in Industrial applications
+
 # Members
 
 ## Ph.D. Students
