@@ -18,8 +18,8 @@
 		</ul>
  		
 </div>
-
-# Members
+<div align=left>
+	# Members
 
 ## Ph.D. Students
 Junhwa Hwang\
@@ -37,3 +37,4 @@ Gyungwook Park
 ## Undergraduate Students
 Dongho Lee\
 Jiyoung Park
+</div>
