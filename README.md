@@ -18,7 +18,7 @@
 		</ul>
  		
 	</div>
-	<h1> Members </h1>
+<h1> Members </h1>
 	<div align=left>
 	<h2>Ph.D. Student </h2>
   		<ul>
