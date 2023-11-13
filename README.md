@@ -5,5 +5,10 @@
 </div>
 <div align=center>
 	<h1> Professor </h1>
- 
+  	<p>Associate Professor</p>
+  	<p>Department of Convergence & Fusion Systems Engineering,</p>
+  	<p>Department of Smart Plant Engineering,</p>
+  	<p>Department of Energy Convergence & Climate Change,</p>
+  	<p>Kyungpook National University</p>
+  	<p>E-mail: dongjunsuh@knu.ac.kr</p> 
 			
