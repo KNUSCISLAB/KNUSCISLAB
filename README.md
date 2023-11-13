@@ -22,18 +22,18 @@
 # Members
 
 ## Ph.D. Students
-Junhwa Hwang
-Bowoo Kim
-Junghoon Choi
+Junhwa Hwang;
+Bowoo Kim;
+Junghoon Choi;
 
 ## Master Students
-Woosung Jeon
-Muhammad Ihza Febriyan Pagri
-Donghyeon Kim
-Yahaya Abdullahi
-Eunwan Kim
-Gyungwook Park
+Woosung Jeon;
+Muhammad Ihza Febriyan Pagri;
+Donghyeon Kim;
+Yahaya Abdullahi;
+Eunwan Kim;
+Gyungwook Park;
 
 ## Undergraduate Students
-Dongho Lee
-Jiyoung Park
+Dongho Lee;
+Jiyoung Park;
