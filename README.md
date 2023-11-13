@@ -27,7 +27,7 @@
     		<p>Yahaya Abdullahi</p>
       		<p>Eunwan Kim</p>
       		<p>Gyungwook Park</p>
-	   		
-		
+	   	<h2>Undergraduate Student </h2>	
+      		<p>Dongho Lee</p>
+      		<p>Jiyoung Park</p>		
 	</div>
-</div>			
