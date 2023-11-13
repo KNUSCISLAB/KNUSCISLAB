@@ -19,7 +19,7 @@
  		
 </div>
 <div align=left>
-	# Members
+# Members
 
 ## Ph.D. Students
 - Junhwa Hwang
