@@ -8,13 +8,16 @@
 # professor
 <div align=left>
 - Dongjun Suh, Ph.D
+	
 <br>
+	
 - Associate Professor
 - Department of Convergence & Fusion Systems Engineering,
 - Department of Smart Plant Engineering,
 - Department of Energy Convergence & Climate Change,
 - Kyungpook National University
 - E-mail: dongjunsuh@knu.ac.kr
+
 </div>
 		
  		
