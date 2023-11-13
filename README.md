@@ -22,7 +22,7 @@
 # Members
 
 ## Ph.D. Students
-Junhwa Hwang\n
+Junhwa Hwang\
 Bowoo Kim\
 Junghoon Choi\
 
