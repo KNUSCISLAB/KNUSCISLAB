@@ -7,6 +7,7 @@
 	
 # professor
 <div align=left>
+	
 - Dongjun Suh, Ph.D
 	
 <br>
