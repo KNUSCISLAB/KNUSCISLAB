@@ -14,4 +14,20 @@
   		<p>Kyungpook National University</p>
   		<p>E-mail: dongjunsuh@knu.ac.kr</p> 
 	</div>
+	<h1> Members </h1>
+	<div align=left>
+		<h2>Ph.D. Student </h2>
+		<p>Junhwa Hwang</p>
+		<p>Bowoo Kim</p>
+		<p>Junghoon Choi</p>
+		<h2>Master Student </h2>
+  		<p>Woosung Jeon</p>
+    		<p>Muhammad Ihza Febriyan Pagri</p>
+      		<p>Donghyeon Kim</p>
+    		<p>Yahaya Abdullahi</p>
+      		<p>Eunwan Kim</p>
+      		<p>Gyungwook Park</p>
+	   		
+		
+	</div>
 </div>			
