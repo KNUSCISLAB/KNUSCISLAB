@@ -18,7 +18,7 @@
 		</ul>
  		
 </div>
-<h1> Members 
+<h1> Members</h1>
 	<div align=left>
 	<h2>Ph.D. Student</h2> 
     	<p>Junhwa Hwang</p>
@@ -40,4 +40,4 @@
       	<p>Jiyoung Park</p>
 		
 	</div>
-</h1>
+
