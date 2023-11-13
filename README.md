@@ -15,26 +15,32 @@
   			<p>Department of Energy Convergence & Climate Change,</p>
   			<p>Kyungpook National University</p>
   			<p>E-mail: dongjunsuh@knu.ac.kr</p> 
-		</ul>
+		
  		
 </div>
 <div align=left>
 	# Members
 
 ## Ph.D. Students
-- Junhwa Hwang\
-- Bowoo Kim\
+- Junhwa Hwang
+<br>
+- Bowoo Kim
+<br>
 - Junghoon Choi
 
 ## Master Students
-Woosung Jeon\
-Muhammad Ihza Febriyan Pagri\
-Donghyeon Kim\
-Yahaya Abdullahi\
-Eunwan Kim\
-Gyungwook Park
+- Woosung Jeon
+<br>
+- Muhammad Ihza Febriyan Pagri
+<br>
+- Donghyeon Kim
+<br>
+- Yahaya Abdullahi
+  
+- Eunwan Kim
+- Gyungwook Park
 
 ## Undergraduate Students
-Dongho Lee\
-Jiyoung Park
+- Dongho Lee
+- Jiyoung Park
 </div>
