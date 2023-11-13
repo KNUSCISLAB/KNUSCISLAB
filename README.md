@@ -3,7 +3,7 @@
 <div align=center>
         <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SCISLAB&fontSize=90" />
 </div>
-<div align=center>
+<div align=left>
 	
 # Professor
 <div align=left>
