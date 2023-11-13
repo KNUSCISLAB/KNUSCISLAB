@@ -4,17 +4,18 @@
         <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SCISLAB&fontSize=90" />
 </div>
 <div align=center>
-	<h1> Professor </h1>
-	<div align=left>
-		<p>Dongjun Suh, Ph.D</p>
-		<br>
-	- Associate Professor
-  	- Department of Convergence & Fusion Systems Engineering,
-  	- Department of Smart Plant Engineering,
-  	- Department of Energy Convergence & Climate Change,
-  	- Kyungpook National University
-  	- E-mail: dongjunsuh@knu.ac.kr
-	</div>
+	
+# professor
+<div align=left>
+- Dongjun Suh, Ph.D
+<br>
+- Associate Professor
+- Department of Convergence & Fusion Systems Engineering,
+- Department of Smart Plant Engineering,
+- Department of Energy Convergence & Climate Change,
+- Kyungpook National University
+- E-mail: dongjunsuh@knu.ac.kr
+</div>
 		
  		
 </div>
