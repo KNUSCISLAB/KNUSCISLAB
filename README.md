@@ -18,26 +18,22 @@
 		</ul>
  		
 </div>
-<h1> Members</h1>
-	<div align=left>
-	<h2>Ph.D. Student</h2> 
-    	<p>Junhwa Hwang</p>
-	<p>Bowoo Kim</p>
-	<p>Junghoon Choi</p>
-		
-		
-	<h2>Master Student</h2> 
-     	<p>Woosung Jeon</p>
-    	<p>Muhammad Ihza Febriyan Pagri</p>
-      	<p>Donghyeon Kim</p>
-    	<p>Yahaya Abdullahi</p>
-      	<p>Eunwan Kim</p>
-      	<p>Gyungwook Park</p>
-     	
-  
-	<h2>Undergraduate Student</h2> 
-	<p>Dongho Lee</p>
-      	<p>Jiyoung Park</p>
-		
-	</div>
 
+# Members
+
+## Ph.D. Students
+- Junhwa Hwang
+- Bowoo Kim
+- Junghoon Choi
+
+## Master Students
+- Woosung Jeon
+- Muhammad Ihza Febriyan Pagri
+- Donghyeon Kim
+- Yahaya Abdullahi
+- Eunwan Kim
+- Gyungwook Park
+
+## Undergraduate Students
+- Dongho Lee
+- Jiyoung Park
