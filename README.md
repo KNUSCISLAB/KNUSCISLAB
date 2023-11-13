@@ -4,8 +4,8 @@
         <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ABOUT%20SCISLAB&fontSize=90" />
 </div>
 <div align=center>
-	<h2> Professor </h3>
-	<h1> Dongjun Suh, Ph.D. </h1>
+	<h1> Professor </h3>
+	<h2> Dongjun Suh, Ph.D. </h1>
   <p>Associate Professor</p>
   <p>Department of Convergence & Fusion Systems Engineering,</p>
   <p>Department of Smart Plant Engineering,</p>
