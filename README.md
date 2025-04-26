@@ -45,14 +45,14 @@
 
 - Junghoon Choi
 
+- Muhammad Ihza Febriyan Pagri
+
+- Yahaya Abdullahi
+
 ## Master Students
 - Woosung Jeon
 
-- Muhammad Ihza Febriyan Pagri
-
 - Donghyeon Kim
-
-- Yahaya Abdullahi
   
 - Eunwan Kim
   
