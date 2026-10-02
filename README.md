@@ -1,65 +1,38 @@
+<div align="center">
 
-<a href="https://sites.google.com/site/knuscislab/home" target="_blank"><img src="https://img.shields.io/badge/SITE-333333?style=for-the-badge&logoColor=white"/></a>
-<div align=center>
-        <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SCISLAB&fontSize=90" />
-</div>
-<div align=left>
-	
-# Professor
-<div align=left>
-	
-## Dongjun Suh, Ph.D
-	
-<br>
-	
-- Associate Professor
-- Department of Convergence & Fusion Systems Engineering,
-- Department of Smart Plant Engineering,
-- Department of Energy Convergence & Climate Change,
-- Kyungpook National University
-- E-mail: dongjunsuh@knu.ac.kr
+<img src="https://knuscislab.github.io/assets/img/logo.png" alt="SCIS Lab" height="96">
+
+# Smart Control & Intelligent Systems Lab
+
+**Kyungpook National University**
+
+AI and reinforcement learning for complex energy and industrial systems.
+
+[![Website](https://img.shields.io/badge/Website-knuscislab.github.io-0B8577?style=for-the-badge)](https://knuscislab.github.io)
+[![Publications](https://img.shields.io/badge/Publications-10233F?style=for-the-badge)](https://knuscislab.github.io/publications.html)
+[![Join us](https://img.shields.io/badge/Join_us-6B5BD6?style=for-the-badge)](https://knuscislab.github.io/#join)
 
 </div>
-		
- 		
-</div>
-<div align=left>
 
-# Research
-- Energy AI
+## Research
 
-- Building Energy/Control
+**Energy AI** · AI for power systems where renewables, energy storage, and electric vehicles operate together: generation and demand forecasting, EV charging and V2G scheduling, battery health diagnostics, building energy management, and energy trading.
 
-- Fault Diagnosis & Anomaly Detection
+**Industrial AI** · AI for manufacturing lines and safety-critical equipment that finds defects, explains their causes, and acts on them: industrial anomaly detection, vision-language inspection, fault diagnosis and prognostics, and physics-informed learning with digital twins.
 
-- AI and Machine Learning for Risk Management
+More on the [research page](https://knuscislab.github.io/research.html).
 
-- Industrial AI : Machine Intelligence in Industrial applications
+## People
 
-# Members
+Led by **[Prof. Dongjun Suh](https://knuscislab.github.io/professor.html)**, Associate Professor, Kyungpook National University.
+Current members and alumni are listed on the [people page](https://knuscislab.github.io/people.html).
 
-## Ph.D. Students
-- Junhwa Hwang
+## Join us
 
-- Bowoo Kim
+We are looking for postdocs, MS and PhD students, and undergraduate interns who enjoy both machine learning and real engineering systems. International students are welcome.
 
-- Junghoon Choi
+## Contact
 
-- Muhammad Ihza Febriyan Pagri
-
-- Yahaya Abdullahi
-
-## Master Students
-- Woosung Jeon
-
-- Donghyeon Kim
-  
-- Eunwan Kim
-  
-- Gyeonguk Park
-
-## Undergraduate Students
-- Dongho Lee
-  
-- Jiyoung Park
-</div>
+- Email: dongjunsuh@knu.ac.kr
+- Building No. 9, KNU Sangju Campus, 2559 Gyeongsang-daero, Sangju, Republic of Korea
+- Global Plaza 1311, KNU Daegu Campus, 80 Daehak-ro, Buk-gu, Daegu, Republic of Korea
